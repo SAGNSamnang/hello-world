@@ -8,3 +8,5 @@ This repository is built step by step
 It now includes steps for GitHub
 
 Hello World! I'm Samnang Sanh
+
+We are working together.
